@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Random Trivia",
+    "live": "https://seir-penguin-project1-eight.vercel.app/",
+    "git": "https://github.com/FAITHM1/seir_penguin_project1",
+    "image": "https://i.imgur.com/GLDYQEc.png"
+  },
+  {
+    "name": "Fashion Journal",
+    "live": "https://fmproject2.herokuapp.com/",
+    "git": "https://github.com/FAITHM1/Project2",
+    "image": "https://i.imgur.com/DI7jZmR.png"
+  }
+]
