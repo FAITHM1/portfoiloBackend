@@ -20,5 +20,5 @@ app.get("/about", (req, res) => {
   res.json(about);
 });
 
-const PORT = 4501;
+const PORT = process.env.PORT || 4501;
 app.listen(PORT, () => console.log(`listening on ${PORT}`));
