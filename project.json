@@ -3,12 +3,21 @@
     "name": "Random Trivia",
     "live": "https://seir-penguin-project1-eight.vercel.app/",
     "git": "https://github.com/FAITHM1/seir_penguin_project1",
-    "image": "https://i.imgur.com/GLDYQEc.png"
+    "image": "https://i.imgur.com/GLDYQEc.png",
+    "about": "This application was bulit using JavaScript, jQuery, Contentful, HTML and CSS. "
   },
   {
     "name": "Fashion Journal",
     "live": "https://fmproject2.herokuapp.com/",
     "git": "https://github.com/FAITHM1/Project2",
-    "image": "https://i.imgur.com/DI7jZmR.png"
+    "image": "https://i.imgur.com/DI7jZmR.png",
+    "about": "This application was bulit using MongoDB, Express, HTML, CSS, Jquery"
+  },
+  {
+    "name": "EventTracker",
+    "live": "https://trackevents.netlify.app/",
+    "git": "https://github.com/FAITHM1/eventTracker",
+    "image": "https://i.imgur.com/TA2JFdW.png",
+    "about": "This application was bulit using MongoDB, Express, HTML, CSS, JavaScript"
   }
 ]
